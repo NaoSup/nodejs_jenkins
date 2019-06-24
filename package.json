@@ -1,0 +1,25 @@
+{
+  "name": "nodejs_jenkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaoSup/nodejs_jenkins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaoSup/nodejs_jenkins/issues"
+  },
+  "homepage": "https://github.com/NaoSup/nodejs_jenkins#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
